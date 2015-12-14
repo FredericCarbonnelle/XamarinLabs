@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace App1
 {
-    [Activity(Label = "App1", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "XamarinLabs", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
